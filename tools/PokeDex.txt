@@ -1,0 +1,403 @@
+1  Grass
+2  Grass
+3  Grass  Dark
+4  Fire
+5  Fire
+6  Fire  Ghost
+7  Water
+8  Water
+9  Water  Fighting
+10  Normal
+11  Normal
+12  Bug
+13  Bug
+14  Bug
+15  Bug  Dark
+16  Grass  Flying
+17  Grass  Flying
+18  Grass  Flying
+19  Normal  Flying
+20  Fire  Flying
+21  Fire  Flying
+22  Electric
+23  Electric  Fighting
+24  Electric  Fighting
+25  Dark  Fire
+26  Dark  Fire
+27  Normal
+28  Normal
+29  Normal
+30  Normal
+31  Grass
+32  Grass
+33  Bug
+34  Bug
+35  Bug
+36  Bug
+37  Bug  Flying
+38  Bug  Flying
+39  Bug  Flying
+40  Flying
+41  Flying
+42  Flying  Steel
+43  Normal
+44  Normal
+45  Normal
+46  Normal  Fairy
+47  Water  Fairy
+48  Water  Fairy
+49  Bug  Water
+50  Bug  Flying
+51  Water
+52  Water
+53  Poison  Ground
+54  Poison  Ground
+55  Water
+56  Water
+57  Water
+58  Water  Rock
+59  Normal  Fairy
+60  Normal  Fairy
+61  Normal  Fairy
+62  Psychic  Fairy
+63  Psychic  Fairy
+64  Psychic  Fairy
+65  Psychic  Fighting
+66  Psychic
+67  Psychic
+68  Ghost  Poison
+69  Ghost  Poison
+70  Ghost  Poison
+71  Normal
+72  Normal
+73  Electric
+74  Electric
+75  Electric
+76  Fairy
+77  Fairy
+78  Normal
+79  Normal
+80  Normal
+81  Grass
+82  Grass
+83  Grass
+84  Grass  Normal
+85  Grass  Normal
+86  Grass  Normal
+87  Rock
+88  Rock
+89  Rock
+90  Rock
+91  Rock
+92  Rock  Fire
+93  Rock  Fire
+94  Electric
+95  Electric
+96  Electric
+97  Normal  Flying
+98  Normal  Flying
+99  Normal  Flying
+100  Fire  Flying
+100  Electric  Flying
+100  Psychic  Flying
+100  Ghost  Flying
+101  Electric
+102  Electric
+103  Electric
+104  Grass
+105  Grass
+106  Grass
+107  Grass  Fighting
+108  Grass  Dragon
+109  Grass  Dragon
+110  Grass  Dragon
+111  Psychic
+112  Psychic
+113  Normal  Flying
+114  Ghost
+115  Ghost
+116  Fighting
+117  Fighting
+118  Fighting
+119  Fighting  Ice
+120  Fire  Poison
+121  Fire  Poison
+122  Ground
+123  Ground
+124  Steel
+125  Steel
+126  Dragon  Ground
+127  Dragon  Ground
+128  Dragon  Ground
+129  Rock
+130  Rock
+131  Rock
+132  Water  Flying
+133  Water  Flying
+134  Water
+135  Water  Flying
+136  Water
+137  Water
+138  Water
+139  Poison
+140  Poison
+141  Normal
+142  Normal
+143  Ghost  Flying
+144  Ghost  Flying
+145  Fairy
+146  Fairy
+147  Fairy
+148  Ground
+149  Ground
+150  Fire
+151  Fire  Ground
+152  Fire  Ground
+153  Steel  Psychic
+154  Steel  Psychic
+155  Dragon
+156  Dragon
+157  Dragon
+158  Fighting
+159  Fighting
+160  Fighting  Ghost
+161  Fighting  Psychic
+162  Fighting  Psychic
+163  Fighting
+164  Fighting  Steel
+165  Fire
+166  Fire  Psychic
+167  Fire  Ghost
+168  Water  Ground
+169  Water  Ground
+170  Electric
+171  Electric
+172  Dragon
+173  Dragon
+174  Dragon
+175  Poison  Fighting
+176  Poison  Fighting
+177  Electric  Flying
+178  Electric  Flying
+179  Normal
+180  Water
+181  Electric
+182  Fire
+183  Psychic
+184  Dark
+185  Grass
+186  Ice
+187  Fairy
+188  Normal
+189  Normal
+190  Normal  Grass
+191  Normal  Grass
+192  Normal  Psychic
+193  Normal  Psychic
+194  Poison
+195  Poison
+196  Dark
+197  Dark
+198  Electric  Poison
+199  Electric  Poison
+200  Electric  Fairy
+201  Electric
+202  Poison  Normal
+203  Poison  Normal
+204  Normal
+205  Grass  Poison
+206  Grass  Poison
+207  Electric
+208  Electric
+209  Electric  Steel
+210  Electric  Steel
+211  Electric  Steel
+212  Normal
+213  Fire
+214  Fire
+215  Normal
+216  Normal
+217  Normal
+218  Poison
+219  Normal  Flying
+220  Dragon  Flying
+221  Grass
+222  Grass
+223  Fighting
+224  Fire  Normal
+225  Fire  Normal
+226  Poison  Dark
+227  Poison  Dark
+228  Dark
+229  Dark
+230  Dark  Ice
+231  Dark  Ice
+232  Dark  Flying
+233  Dark  Flying
+234  Psychic
+235  Psychic
+236  Psychic
+237  Ghost
+238  Ghost
+239  Ghost  Fairy
+240  Steel  Fairy
+241  Psychic  Normal
+242  Grass  Ghost
+243  Grass  Ghost
+244  Ground  Grass
+245  Ground  Grass
+246  Grass  Flying
+247  Grass
+248  Grass
+249  Rock
+250  Grass
+251  Grass  Fire
+252  Grass
+253  Grass  Dark
+254  Bug
+255  Bug  Psychic
+256  Bug  Poison
+257  Bug  Poison
+258  Bug
+259  Bug  Steel
+260  Bug  Flying
+261  Bug  Steel
+262  Bug  Fighting
+263  Psychic
+264  Psychic
+265  Ground
+266  Ground
+267  Ground  Dark
+268  Ground  Dark
+269  Ground  Dark
+270  Ground
+271  Ground
+272  Ground
+273  Ground
+274  Bug  Fire
+275  Bug  Fire
+276  Dragon
+277  Dragon
+278  Dragon  Flying
+279  Fairy  Steel
+280  Fairy  Steel
+281  Fairy  Steel
+282  Psychic
+283  Psychic
+284  Psychic  Fairy
+285  Dark  Fairy
+286  Dark  Fairy
+287  Dark  Fairy
+288  Water
+289  Water
+290  Flying  Dark
+291  Water
+292  Water
+293  Steel  Poison
+294  Steel  Poison
+295  Dragon  Normal
+296  Steel
+297  Dark  Ghost
+298  Ghost
+299  Ghost
+300  Fighting
+301  Fighting  Flying
+302  Ghost  Dark
+303  Flying  Dragon
+304  Flying  Dragon
+305  Dragon  Ghost
+306  Dragon  Ghost
+307  Dragon  Ghost
+308  Rock  Poison
+309  Rock  Poison
+310  Electric  Ghost
+311  Ghost
+312  Ghost
+313  Normal  Psychic
+314  Fighting
+315  Normal
+316  Rock  Ground
+317  Rock  Ground
+318  Rock  Dark
+319  Rock
+320  Ice
+321  Electric
+322  Ghost  Ground
+323  Ghost  Ground
+324  Water  Psychic
+325  Water  Psychic
+326  Water  Psychic
+327  Water
+328  Water  Ground
+329  Water
+330  Water  Ice
+331  Water  Poison
+332  Water
+333  Water
+334  Water
+335  Water  Psychic
+336  Water
+337  Poison  Water
+338  Poison  Dragon
+339  Water
+340  Water
+341  Electric
+342  Electric
+343  Electric
+344  Poison  Water
+345  Poison  Water
+346  Flying  Fight
+347  Dragon
+348  Dragon
+349  Dragon  Flying
+350  Ice  Bug
+351  Ice  Bug
+352  Grass  Ice
+353  Grass  Ice
+354  Ice  Flying
+355  Ice
+356  Ice
+357  Ice
+358  Ice
+359  Ice  Ghost
+360  Ice
+361  Ice
+362  Ice
+363  Ice
+364  Ice
+365  Normal  Flying
+366  Normal  Flying
+367  Dark  Steel
+368  Dark  Steel
+369  Dark  Steel
+370  Dark  Dragon
+371  Dark  Dragon
+372  Dark  Dragon
+373  Water  Psychic
+374  Water
+375  Dragon  Water
+376  Ground  Fighting
+377  Fairy  Psychic
+378  Grass  Dark
+379  Ghost  Fairy
+380  Bug  Fighting
+381  Electric  Ground
+382  Ground  Steel
+383  Ice  Water
+384  Fight  Electric
+385  Dark  Flying
+386  Fire  Poison
+387  Rock  Electric
+388  Dragon  Ice
+389  Dragon  Ice
+390  Dragon  Ice
+391  Ghost
+392  Steel  Ghost
+393  Dark  Grass
+394  Dark  Ice
+395  Dark  Ground
+396  Dark  Fire
+397  Dragon  Dark
+398  Fairy  Fighting
+399  Fighting  Dragon
+400  Electric  Dragon
