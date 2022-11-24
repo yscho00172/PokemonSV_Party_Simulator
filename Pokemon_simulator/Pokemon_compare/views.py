@@ -21,17 +21,17 @@ def compare(request, pokemon_num):
         print("Error! Pokemon type is not found!")
     elif(type2 == 'None'):
         opposite = compare_db.filter(Type=type1)
-        print("go")
-        print(opposite)
-        opposite_types = opposite.values()[0]['Opposite']
+        opposite_list_queryset = list(opposite.values())
+        opposite_list = [opposite_list_queryset[i]['Opposite'] for i in range(len(opposite_list_queryset))]
+        return JsonResponse({'pokemon_type': type1, 'opposite_types': opposite_list})
     else:
         opposite1 = compare_db.filter(Type=type1)
-        opposite_types1 = opposite1.values()[0]['Opposite']
+        opposite_list_queryset1 = list(opposite1.values())
+        opposite_list1 = [opposite_list_queryset1[i]['Opposite'] for i in range(len(opposite_list_queryset1))]
         opposite2 = compare_db.filter(Type=type2)
-        opposite_types2 = opposite2.values()[0]['Opposite']
-        opposite_types = opposite_types1 + ',' + opposite_types2
-
-    return JsonResponse({'opposite_types': opposite_types})
+        opposite_list_queryset2 = list(opposite2.values())
+        opposite_list2 = [opposite_list_queryset2[i]['Opposite'] for i in range(len(opposite_list_queryset2))]
+        return JsonResponse({'pokemon_type': type1 + ',' + type2, 'opposite_types': opposite_list1 + opposite_list2})
 
 def pokemon_list(request):
     pokemon_dictionary = Pokemon_Dictionary.objects.all()

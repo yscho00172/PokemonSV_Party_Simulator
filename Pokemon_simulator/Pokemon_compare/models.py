@@ -5,7 +5,7 @@ from django.db import models
 class Type_Compatibility(models.Model):
 
     Type = models.CharField(max_length=10)
-    Opposite1 = models.CharField(max_length=10)
+    Opposite = models.CharField(max_length=10)
 
     def __str__(self):
         return self.type, self.opposite
